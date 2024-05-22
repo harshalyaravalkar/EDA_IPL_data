@@ -3,8 +3,6 @@ This repository contains a comprehensive exploratory data analysis (EDA) of the 
 
 ## Contents
 - **IPL_EDA_Notebook.ipynb**: Jupyter notebook containing the complete EDA of the IPL dataset. The notebook includes data cleaning, transformation, analysis, and visualizations.
-- **data/**: Directory containing the IPL dataset (matches, deliveries, etc.).
-- **images/**: Directory containing visualizations and plots generated during the analysis.
 - **README.md**: Description and instructions for the repository.
 
 ## Key Features
@@ -19,7 +17,7 @@ This repository contains a comprehensive exploratory data analysis (EDA) of the 
   - **Venue Analysis**: Study of the impact of different venues on match outcomes.
 
 - **Visualizations**:
-  - Interactive plots using libraries like Matplotlib, Seaborn, and Plotly.
+  - Interactive plots using libraries like Matplotlib, Seaborn.
   - Visualizations to explore match results, player statistics, and team performances.
   - Comparative analysis of teams and players through insightful visualizations.
 
@@ -30,9 +28,7 @@ This repository contains a comprehensive exploratory data analysis (EDA) of the 
 - **Numpy**: Library for numerical operations.
 - **Matplotlib**: Library for static, animated, and interactive visualizations.
 - **Seaborn**: Library for statistical data visualization.
-- **Plotly**: Library for creating interactive plots.
-- **Jupyter Notebook**: Interactive computing environment for creating and sharing documents.
-
+  
 ## Getting Started
 
 1. **Clone the Repository**:
