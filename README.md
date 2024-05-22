@@ -27,4 +27,16 @@ This repository contains a comprehensive exploratory data analysis (EDA) of the 
 
 - **Python**: Programming language used for data analysis and visualization.
 - **Pandas**: Library for data manipulation and analysis.
-- **Numpy
+- **Numpy**: Library for numerical operations.
+- **Matplotlib**: Library for static, animated, and interactive visualizations.
+- **Seaborn**: Library for statistical data visualization.
+- **Plotly**: Library for creating interactive plots.
+- **Jupyter Notebook**: Interactive computing environment for creating and sharing documents.
+
+## Getting Started
+
+## Getting Started
+
+1. **Clone the Repository**:
+   ```bash
+  git clone 
