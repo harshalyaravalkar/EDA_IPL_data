@@ -35,8 +35,6 @@ This repository contains a comprehensive exploratory data analysis (EDA) of the 
 
 ## Getting Started
 
-## Getting Started
-
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/harshalyaravalkar/EDA_IPL_data.git 
